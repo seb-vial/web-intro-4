@@ -1000,7 +1000,7 @@ left: false
 It’s time to adapt to the media
 
 ### Types of media
-- **screen**: all devicec which are considered as screens (computer, tablet, phone, tv, projector, etc.)
+- **screen**: all devices which are considered as screens (computer, tablet, phone, tv, projector, etc.)
 - **print**: printing media
 - **all**: all of the above, which is the default behavior when applying CSS rules
 
